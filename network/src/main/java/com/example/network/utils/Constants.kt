@@ -2,8 +2,10 @@ package com.example.network.utils
 
 object Constants {
 
+    // Add you rapid api key
     const val X_RAPIDAPI_KEY: String= ""
 
+    // Add you rapid api host
     const val X_RAPIDAPI_HOST: String = ""
 
     private const val BASE_URL = "https://spotify-downloader9.p.rapidapi.com"
