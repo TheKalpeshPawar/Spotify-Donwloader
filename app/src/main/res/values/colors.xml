@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //Spotify Color Palette 3
+    <color name="indian_yellow">#e9a451</color>
+    <color name="brown_chocolate">#69202F</color>
+    <color name="myrtle_green">#2c7972</color>
+    <color name="orange_yellow">#f6cd61</color>
+    <color name="laurel_green">#aec993</color>
+
+    <color name="ruddy_brown">#B96332</color>
+    <color name="brandy">#854442</color>
+    <color name="cadet_grey">#8caba8</color>
+    <color name="stormcloud">#4F5B66</color>
+
+</resources>
